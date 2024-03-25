@@ -23,9 +23,13 @@ THEN I am prompted to add a new employee
 WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
 
+![image](https://github.com/scerda8/challenge-3/assets/159675591/dea561d7-0746-43b2-9cdf-b82640c5a229)
+
 ![image](https://github.com/scerda8/challenge-3/assets/159675591/5d1b57ef-19a6-4eee-9a3b-8127488270c2)
 
 ![image](https://github.com/scerda8/challenge-3/assets/159675591/d3ba9b68-6a10-4ebc-9ba6-750c7a92e1a8)
+
+![image](https://github.com/scerda8/challenge-3/assets/159675591/42b6d030-eb89-4ab4-88c2-c086e3c4f848)
 
 
 
