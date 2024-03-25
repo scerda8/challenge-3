@@ -31,5 +31,5 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 ![image](https://github.com/scerda8/challenge-3/assets/159675591/42b6d030-eb89-4ab4-88c2-c086e3c4f848)
 
-
+link to deployment : https://scerda8.github.io/challenge-3/
 
